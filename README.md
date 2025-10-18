@@ -44,9 +44,7 @@ The performance of the Logistic Regression model was evaluated on different trai
 
 
 ### Performance Metrics Visualization
-
-![Performance Metrics vs. Dataset Size](performance_metrics_plot.png)
-
+(https://github.com/denizlahi5-cpu/DLBAIPNLP01-Project-NLP-Sentiment-Analysis-on-Movie-Reviews/blob/main/performance_metrics_plot.png)
 
 ### Discussion of Results
 
